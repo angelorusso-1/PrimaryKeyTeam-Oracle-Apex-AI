@@ -55,5 +55,12 @@ Per utilizzare la funzionalità Text-to-SQL:
 2.  Inserire la propria API Key di Cohere nel file `main.py`.
 3.  Eseguire lo script: `python main.py`
 
+## 👥 Il Team
+Progetto realizzato da:
+* **Angelo Russo** (Frontend (APEX) / Linguaggio Naturale / Backend (Creazione Database / Importazione Dataset)
+* **Giovanni Cozzolino** (Query / Trigger/ Procedure / Gestione Concorrenze / Gestione affidabilità)
+* **Anna Paola Granato** (Frontend (APEX) / Backend (Comandi DDL) / Schematizzazione Modello E-R)
+* **Giada Savi** (Progettazione Concettuale / Traduzione / Progettazione Logica)
+
 ---
 *Developed by PrimaryKey Team*
