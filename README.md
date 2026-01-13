@@ -49,7 +49,7 @@ Il progetto segue i principi di normalizzazione e integrità referenziale, inclu
 2.  Importare il file dell'applicazione (`PrimaryKeyApp.sql`) tramite l'App Builder di Oracle APEX.
 3.  Configurare gli *Authorization Schemes* se necessario.
 
-### 2. Modulo Python (Opzionale)
+### 2. Modulo Python
 Per utilizzare la funzionalità Text-to-SQL:
 1.  Installare le dipendenze: `pip install cx_Oracle cohere`
 2.  Inserire la propria API Key di Cohere nel file `main.py`.
